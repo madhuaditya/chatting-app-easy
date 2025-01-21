@@ -1,6 +1,6 @@
 import Header from './Header/Header.jsx';
 import Footer from './Footer/Footer.jsx';
-import Container from './container/Container.jsx'
+import Container from './container/container.jsx'
 import Logo from './Logo.jsx'
 import Button from './Button.jsx'
 import Select from './Select.jsx'
@@ -11,7 +11,6 @@ import Signup from './Signup.jsx'
 import Login from './Login.jsx'
 import PostForm from './PostForm.jsx'
 import RTE from './RTE.jsx'
-import {Link} from 'react-router-dom'
 import WaitingPage   from "./WaitingPage.jsx";
 export  {
     Header,
